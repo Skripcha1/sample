@@ -1,2 +1,2 @@
 # Tribute
-My first project in Html amd Css
+My first project in Html and Css
